@@ -25,5 +25,5 @@ Learn about AnonVM's ultimate privacy and security features.
 👍 Join our [Telegram](https://t.me/anonvm_wtf) for support and interaction.
 
 🔗 **Quick Links**:
-- **Website**: [snowcore.io](https://anonvm.wtf)
+- **Website**: [AnonVM.wtf](https://anonvm.wtf)
 - **Telegram**: [Join Now](https://t.me/anonvm_wtf)
